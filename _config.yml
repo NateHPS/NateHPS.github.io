@@ -32,14 +32,14 @@ authors:
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  Nate:
+    name: Nate
+    display_name: N8
+    avatar: 'assets/images/imp.png'
+    email: nathantreme@gmail.com
+    web: https://www.highlandparanormalsociety.com
+    twitter: https://twitter.com/natetreme
+    description: "Writer, artist, game designer. Creator of Tunnel Goons. Inventor of pamphlet dungeons."
 
 
 # Plugins
