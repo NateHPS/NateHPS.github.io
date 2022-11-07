@@ -25,12 +25,9 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Privacy Policy
-  url: "privacy-policy/"
-
 - title: Contact
   url: "contact/"
 
-- title: Download
+- title: Site made with Affiliates theme
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
   external: true
