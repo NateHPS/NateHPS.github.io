@@ -29,6 +29,15 @@ topmenu:
   url: https://www.tiktok.com/@highlandparanormal
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
+
+- title: Instagram  
+  url: https://www.instagram.com/natetreme/
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
+  
+- title: Twitter  
+  url: https://twitter.com/NateTreme
+  class: "ml-2 btn btn-dark text-white px-3"  
   
 - title: Patreon  
   url: https://patreon.com/hps
