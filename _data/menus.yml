@@ -10,36 +10,7 @@ topmenu:
 - title: Contact
   url: "contact/"
   
-- title: Itch  
-  url: https://natetreme.itch.io/
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
-  
-  - title: Twitch  
-  url: https://www.twitch.tv/highlandparanormalsociety
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
-  
-  - title: YouTube  
-  url: https://www.youtube.com/channel/UCQTbKeFRjz81J6fRp7ZR6WQ
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
-  
-- title: Tumblr  
-  url: https://highlandparanormalsociety.tumblr.com/
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
-  
-  - title: Instagram  
-  url: https://www.instagram.com/natetreme/
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
-  
-  - title: Twitter  
-  url: https://twitter.com/NateTreme
-  class: "ml-2 btn btn-dark text-white px-3"
-  
-  - title: TikTok  
+- title: TikTok  
   url: https://www.tiktok.com/@highlandparanormal
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
