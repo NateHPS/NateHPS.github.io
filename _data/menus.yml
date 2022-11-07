@@ -9,6 +9,10 @@ topmenu:
 
 - title: Contact
   url: "contact/"
+  
+  - title: Itch  
+  url: https://natetreme.itch.io/
+  external: true
 
 - title: Patreon  
   url: https://patreon.com/hps
