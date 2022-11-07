@@ -9,6 +9,21 @@ topmenu:
 
 - title: Contact
   url: "contact/"
+
+- title: Itch  
+  url: https://natetreme.itch.io/
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
+  
+- title: YouTube  
+  url: https://www.youtube.com/channel/UCQTbKeFRjz81J6fRp7ZR6WQ
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
+  
+- title: Tumblr  
+  url: https://highlandparanormalsociety.tumblr.com/
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
   
 - title: TikTok  
   url: https://www.tiktok.com/@highlandparanormal
