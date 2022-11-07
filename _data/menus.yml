@@ -41,7 +41,7 @@ topmenu:
   
 - title: Patreon  
   url: https://patreon.com/hps
-  class: "ml-2 btn btn-dark text-white px-3"
+  class: "ml-2 btn btn-dark text-yellow px-3"
   external: true
 
 # Footer Menu
