@@ -1,11 +1,12 @@
-## layout: post
+---
+layout: post
 title: "Catacomb Of The Serpent Priest"
 author: Nate
 categories: [ dungeon ]
 image: assets/images/serpentpriest.png
 ---
 
-![serpentcatacomb.png](NateHPS.github.io/assets/images/serpentcatacomb.png)
+![serpentcatacomb.png](assets/images/serpentcatacomb.png)
 
 ## The Catacomb
 
