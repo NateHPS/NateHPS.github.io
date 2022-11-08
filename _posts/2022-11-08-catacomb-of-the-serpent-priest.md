@@ -5,7 +5,7 @@ categories: [ dungeon ]
 image: assets/images/serpentpriest.png
 ---
 
-![Untitled_Artwork (93).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/424d5d4b-66c0-4a1d-8351-823da84b70a9/Untitled_Artwork_(93).png)
+![serpentcatacomb.png](assets/images/serpentcatacomb.png)
 
 ## The Catacomb
 
