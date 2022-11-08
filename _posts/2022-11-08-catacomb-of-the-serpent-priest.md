@@ -5,7 +5,7 @@ categories: [ dungeon ]
 image: assets/images/serpentpriest.png
 ---
 
-![serpentcatacomb.png](serpentcatacomb.png)
+![serpentcatacomb.png](NateHPS.github.io/assets/images/serpentcatacomb.png)
 
 ## The Catacomb
 
