@@ -22,12 +22,12 @@ topmenu:
   
 - title: Tumblr  
   url: https://highlandparanormalsociety.tumblr.com/
-  class: "ml-2 btn btn-dark text-white px-12 btn-sm"
+  class: "ml-2 btn btn-dark text-white px-3 btn-sm"
   external: true
   
 - title: TikTok  
   url: https://www.tiktok.com/@highlandparanormal
-  class: "ml-2 btn btn-dark text-white px-3 btn-sm"
+  class: "ml-6 btn btn-dark text-white px-3 btn-sm"
   external: true
 
 - title: Instagram  
