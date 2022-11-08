@@ -14,6 +14,7 @@ A caravan guard, thirteen drinks deep in a tavern, tells of a strange doorway he
 ## D10 Random Encounters
 
 When players enter an unkeyed room for the first time there is a 3 in 6 chance of an encounter
+
 | 1d10 | Encounter |
 | --- | --- |
 | 1 | 2d6 cobra snakes |
