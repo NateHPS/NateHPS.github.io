@@ -12,36 +12,36 @@ topmenu:
 
 - title: Itch  
   url: https://natetreme.itch.io/
-  class: "ml-2 btn btn-dark text-white px-3"
+  class: "ml-2 btn btn-dark text-white px-3 btn-sm"
   external: true
   
 - title: YouTube  
   url: https://www.youtube.com/channel/UCQTbKeFRjz81J6fRp7ZR6WQ
-  class: "ml-2 btn btn-dark text-white px-3"
+  class: "ml-2 btn btn-dark text-white px-3 btn-sm"
   external: true
   
 - title: Tumblr  
   url: https://highlandparanormalsociety.tumblr.com/
-  class: "ml-2 btn btn-dark text-white px-3"
+  class: "ml-2 btn btn-dark text-white px-3 btn-sm"
   external: true
   
 - title: TikTok  
   url: https://www.tiktok.com/@highlandparanormal
-  class: "ml-2 btn btn-dark text-white px-3"
+  class: "ml-2 btn btn-dark text-white px-3 btn-sm"
   external: true
 
 - title: Instagram  
   url: https://www.instagram.com/natetreme/
-  class: "ml-2 btn btn-dark text-white px-3"
+  class: "ml-2 btn btn-dark text-white px-3 btn-sm"
   external: true
   
 - title: Twitter  
   url: https://twitter.com/NateTreme
-  class: "ml-2 btn btn-dark text-white px-3"  
+  class: "ml-2 btn btn-dark text-white px-3 btn-sm"  
   
 - title: Patreon  
   url: https://patreon.com/hps
-  class: "ml-2 btn btn-dark text-yellow px-3"
+  class: "ml-2 btn btn-dark text-yellow px-3 btn-sm"
   external: true
 
 # Footer Menu
