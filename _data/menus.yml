@@ -12,7 +12,7 @@ topmenu:
 
 - title: Itch  
   url: https://natetreme.itch.io/
-  class: "ml-0 btn btn-dark text-white px-3 btn-sm"
+  class: "ml-1 btn btn-dark text-white px-3 btn-sm"
   external: true
   
 - title: YouTube  
