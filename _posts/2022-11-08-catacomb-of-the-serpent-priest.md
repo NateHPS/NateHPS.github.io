@@ -6,7 +6,7 @@ categories: [ dungeon ]
 image: assets/images/serpentpriest.png
 ---
 
-![map]({{ site.baseurl }}/assets/images/serpentcatacomb.png)
+![map](/assets/images/serpentcatacomb.png)
 
 ## The Catacomb
 
