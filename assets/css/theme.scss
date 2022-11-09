@@ -137,6 +137,10 @@ small, .small {
 
 /* Pages
 ================================================== */
+tr:nth-child(2n) {
+  background: lightgray;
+}
+
 .hero {
     background: #ffffff;
     padding: 5rem 5rem;
