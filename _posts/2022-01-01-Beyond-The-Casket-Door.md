@@ -20,4 +20,4 @@ image: assets/images/btcdtitle.png
 **E.** A white cat lounges on a gold pillow on a marble pedestal. It’s collar reads: *Dantalion.* In a deep voice, it says *“You have misstepped. Take the door behind me.”* If further engaged it will only purr and clean itself. The paper-mâché creatures and butlers will attack any who harm it. The door opens to a dark room. Whoever enters it wakes up the next day by the empty, now normal casket. Anyone who ate from the feast wakes up alone in a coffin six feet under the graveyard. 
 *Roll a new character.*
 
-![a skull](assets/images/vecskull.png)
+![a skull](/assets/images/vecskull.png)
