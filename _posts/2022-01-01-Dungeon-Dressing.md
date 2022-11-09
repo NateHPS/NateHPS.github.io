@@ -6,7 +6,6 @@ categories: [ tables ]
 image: assets/images/paintings.jpg
 ---
 
-# d10 Dungeon Decorations
 *The following descriptions come from the field journals of Society researchers exploring subterranean structures in the Other Worlds.*
 
 1. Carved stone columns covered with life size stone hands that wrap around in a spiral pattern. The stone hands will grab anyone that comes near enough and become still. The only way to be free of their grip is to break them.
