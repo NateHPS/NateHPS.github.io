@@ -139,7 +139,9 @@ small, .small {
 ================================================== */
 tr:nth-child(2n) {
   background: #d2faca;
+	border: 1px solid #ddd;
 }
+tr:hover {background-color: #ddd;}
 
 .hero {
     background: #ffffff;
