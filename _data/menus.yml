@@ -38,6 +38,7 @@ topmenu:
 - title: Twitter  
   url: https://twitter.com/NateTreme
   class: "ml-1 btn btn-dark text-white px-3 btn-sm"  
+  external: true
   
 - title: Patreon  
   url: https://patreon.com/hps
