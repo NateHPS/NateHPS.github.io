@@ -2,6 +2,7 @@
 layout: post
 title: "Game Tools: Digital Whiteboard"
 author: Nate
+comments: true
 categories: [ tools ]
 image: assets/images/whiteboard1.png
 ---
