@@ -6,7 +6,7 @@ categories: [ tools ]
 image: assets/images/whiteboard1.png
 ---
 I ran a game last night. It was a scifi adventure using [Roder](https://perchance.org/roder) for the rules and the *Abandoned Laboratory* from my Scumguts zine.
-![Scumguts Zine](/assets/images/sgz.png)
+![Scumguts Zine](/assets/images/sgz.jpg)
 I googled 'digital whiteboard' right before the game and used the first one to pop up: [Miro.](https://miro.com/) 
 It worked great! Everyone just pasted their character sheet onto sticky notes that can be moved around the board. 
 ![Character Sticky Notes](/assets/images/whiteboard3.png)
