@@ -15,4 +15,4 @@ Everyone can doodle on the board so the players could map as they played and i c
 And of course there are the doodles that character make during the game.
 ![Doodles](/assets/images/whiteboard4.png)
 ![More Doodles](/assets/images/whiteboard5.png)
-Their are a lot more features in Miro that I didn't touch. It looks like it has built in video chat but we just did our audio through discord. I'm sure there are more digital whiteboards out there as well. Let me know if you use one.
+There are a lot more features in Miro that I didn't touch. It looks like it has built in video chat but we just did our audio through discord. I'm sure there are more digital whiteboards out there as well. Let me know if you use one.
