@@ -27,7 +27,8 @@ I’ve also made some stickers of random tables to go on my DM screen.
 7. Smokey. Two purple townsfolk bodies burn in a pit.
 8. A lizardfolk priest chants as two others dance around a purple townsfolk body in a magic salt circle. In 5 minutes, if their ritual is uninterrupted, an endless giant eel will burst through the magic circle and eat everyone it finds.
 
-### RANDOM ENCOUNTERS
-- 1-3.\ 1d4 Lizardfolk
-- 4.\ Escaped purple painted prisoner
-- 5-6.\ A Lizardfolk on spider steed
+| D6 RANDOM ENCOUNTERS |  |
+| --- | --- |
+| 1-3. | 1d4 Lizardfolk |
+| 4. | Escaped purple painted prisoner |
+| 5-6. | A Lizardfolk on spider steed |
