@@ -28,6 +28,6 @@ I’ve also made some stickers of random tables to go on my DM screen.
 8. A lizardfolk priest chants as two others dance around a purple townsfolk body in a magic salt circle. In 5 minutes, if their ritual is uninterrupted, an endless giant eel will burst through the magic circle and eat everyone it finds.
 
 ### RANDOM ENCOUNTERS
-- 1-3. 1d4 Lizardfolk
-- 4. Escaped purple painted prisoner
-- 5-6. A Lizardfolk on spider steed
+- 1-3.\ 1d4 Lizardfolk
+- 4.\ Escaped purple painted prisoner
+- 5-6.\ A Lizardfolk on spider steed
