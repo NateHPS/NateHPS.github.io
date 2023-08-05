@@ -6,7 +6,7 @@ categories: [ dungeon ]
 image: assets/images/labelonbox.jpg
 ---
 
-![shiplabel.png](assets/images/shiplabel.png)
+![shiplabel.png](/assets/images/shiplabel.png)
 
 ## Thermal Printer!
 
@@ -16,7 +16,7 @@ I’ve also made some stickers of random tables to go on my DM screen.
 
 # Cult Of The Endless Eel
 
-![eelcultmap.png](assets/images/eelcultmap.png)
+![eelcultmap.png](/assets/images/eelcultmap.png)
 
 1. Reptilian footprints lead toward room 2. It appears they were dragging something.
 2. In a locked cage are two badly injured townsfolk, stripped and painted purple.
