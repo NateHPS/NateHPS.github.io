@@ -30,6 +30,6 @@ I’ve also made some stickers of random tables to go on my DM screen.
 ### RANDOM ENCOUNTERS
 1-3. 1d4 Lizardfolk
 
-1. Escaped purple painted prisoner
+4. Escaped purple painted prisoner
 
 5-6. A Lizardfolk on spider steed
