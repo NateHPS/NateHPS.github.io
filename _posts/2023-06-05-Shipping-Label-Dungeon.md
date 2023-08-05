@@ -1,8 +1,10 @@
-## layout: post
+---
+layout: post
 title: "Shipping Label Dungeon"
 author: Nate
 categories: [ dungeon ]
 image: assets/images/labelonbox.jpg
+---
 
 ![shiplabel.png](assets/images/shiplabel.png)
 
